@@ -1,2 +1,8 @@
-/bin
-/gen
+bin/
+gen/
+.settings/
+.project
+.classpath
+.DS_Store
+local.properties
+build.xml
